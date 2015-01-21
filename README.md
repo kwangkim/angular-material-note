@@ -5,4 +5,8 @@ https://docs.google.com/presentation/d/1UVBLzIRlWmsayqG8HE2RD5sdHnyrlHOeccI9MxH7
 
 ng-polymer
 https://gabiaxel.github.io/ng-polymer-elements/
+
 https://github.com/danielzen/ng-material-demo
+
+http://ionicframework.com/jobs/material-2014/
+
